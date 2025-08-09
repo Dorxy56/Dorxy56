@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Drxy</h1>
 <h3 align="center">A developer from Hungary currently working/studying as a software developer / tester</h3>
 
-- 🔭 I’m currently working on [Vizsgaremek-projekt](https://github.com/MRoland712/Vizsgaremek-projekt-1..git)
-
-- As well as [My website](https://github.com/Dorxy56/www.drxy.hu)
+- 🔭 I’m currently working on [WebAlkatrészek](https://github.com/MRoland712/Vizsgaremek-projekt-1..git)
+     As well as [My website](https://github.com/Dorxy56/www.drxy.hu)
 
 - 🌱 I’m currently studying **Java, JS, HTML, PHP.**
+     but i also know basic / semi-intermidiate **C# (.net), batch (.bat), SQL, Python.**
 
-- but i also know basic / semi-intermidiate **C# (.net), batch (.bat), SQL, Python.**
-
-- 👨‍💻 Most of my projects are available at [www.drxy.hu](www.drxy.hu)
+- 👨‍💻 Most of my projects will be available at [www.drxy.hu](www.drxy.hu)
 
 - 📫 Email contact: **business@drxy.hu**
 
